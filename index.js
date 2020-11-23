@@ -1,7 +1,7 @@
 // ==UserScript==
 // @namespace		https://openuserjs.org/users/mikhailsdv
 // @name			Google Meet Push-to-Talk
-// @description		Enables push-to-talk mode for Google Meet
+// @description		Enables push-to-talk mode for Google Meet by pressing right ctrl.
 // @copyright		2020, mikhailsdv (https://openuserjs.org/users/mikhailsdv)
 // @license			MIT
 // @version			0.2
